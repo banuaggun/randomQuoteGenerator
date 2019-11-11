@@ -1,42 +1,132 @@
 [
   {
-    "num":"0",
-    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-    "author": "Albert Einstein"
+  "num":	"0",
+  "quote":	"Good friends, good books, and a sleepy conscience: this is the ideal life.",
+  "author":	"Mark Twain"
   },
   {
-  "num":"1",
-  "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
-  "author": "Oscar Wilde"
+  "num":	"1",
+  "quote":	"Life is not a matter of holding good cards, but sometimes, playing a poor hand well.",
+  "author":	"Jack London"
   },
   {
-  "num":"2",
-  "quote": "Life is what happens to us while we are making other plans.",
-  "author": "Allen Saunders"
+  "num":	"2",
+  "quote":	"Enjoy the little things in life, because one day you will look back and realize they were the big things.",
+  "author":	"Kurt Vonnegut"
   },
   {
-  "num":"3",
-  "quote": "That which does not kill us makes us stronger.",
-  "author": "Friedrich Nietzsche"
+  "num":	"3",
+  "quote":	"In three words I can sum up everything I’ve learned about life : it goes on.",
+  "author":	"Robert Frost"
   },
   {
-  "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
-  "author": "Mark Twain" 
+  "num":	"4",
+  "quote":	"Women are meant to be loved, not to be understood.",
+  "author":	"Oscar Wilde"
   },
   {
-  "quote": "Life is not a matter of holding good cards, but sometimes, playing a poor hand well."
-  "author": "Kurt Vonnegut"
+  "num":	"5",
+  "quote":	"There are certain words which are nearer and dearer to a man than any others.",
+  "author":	"Nikolai Gogol"
   },
   {
-  "quote": "Enjoy the little things in life, because one day you will look back and realize they were the big things.",
-  "author": "Robert Frost"
+  "num":	"6",
+  "quote":	"The greatest ideas are the simplest.",
+  "author":	"William Golding"
   },
   {
-  "quote": "Women are meant to be loved, not to be understood.",
-  "author": "Nikolai Gogol"
+  "num":	"7",
+  "quote":	"Violence is the last refuge of the incompetent.",
+  "author":	"Isaac Asimov"
   },
   {
-  "quote": "There are certain words which are nearer and dearer to a man than any others.",
-  "author": "William Golding"
+  "num":	"8",
+  "quote":	"The greatest happiness is to know the source of unhappiness.",
+  "author":	"Fyodor Dostoevsky"
   },
+  {
+  "num":	"9",
+  "quote":	"Everyone thinks of changing the world, but no one thinks of changing himself.",
+  "author":	"Leo Tolstoy"
+  },
+  {
+  "num":	"10",
+  "quote":	"Doubt that truth to be a liar, but never doubt I love.",
+  "author":	"William Shakespeare"
+  },
+  {
+  "num":	"11",
+  "quote":	"It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+  "author":	"Antoine de Saint-Exupery"
+  },
+  {
+  "num":	"12",
+  "quote":	"Nothing on earth puts more pressure on the human mind than nothing.",
+  "author":	"Stefan Zweig"
+  },
+  {
+  "num":	"13",
+  "quote":	"Selfishness must always be forgiven you know, because there is no hope of a cure.",
+  "author":	"Jane Austen"
+  },
+  {
+  "num":	"14",
+  "quote":	"War is peace. Freedom is slavery. Ignorance is strength.",
+  "author":	"George Orwell"
+  },
+  {
+  "num":	"15",
+  "quote":	"There is no friend as loyal as a book.",
+  "author":	"Ernest Hemingway"
+  },
+  {
+  "num":	"16",
+  "quote":	"Maybe this world is another planet’s hell.",
+  "author":	"Aldous Huxley"
+  },
+  {
+  "num":	"17",
+  "quote":	"",
+  "author":	""
+  },
+  {
+  "num":"18",
+  "quote":"",
+  "author":""
+  },
+  {
+  "num":"19",
+  "quote":"",
+  "author":""
+  },
+  {
+  "num":"20",
+  "quote":"",
+  "author":""
+  },
+  {
+  "num":"21",
+  "quote":"",
+  "author":""
+  },
+  {
+  "num":"22",
+  "quote":"",
+  "author":""
+  },
+  {
+  "num":"23",
+  "quote":"",
+  "author":""
+  },
+  {
+  "num":"24",
+  "quote":"",
+  "author":""
+  },
+  {
+  "num":"25",
+  "quote":"",
+  "author":""
+  }
 ]
