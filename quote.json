@@ -1,17 +1,42 @@
-{
-	"quotes": [
-
-{
-       "quote":"Life isn’t about getting and having, it’s about giving and being.","author":"Kevin Kruse"},
-{
-       "quote":"Whatever the mind of man can conceive and believe, it can achieve.","author":"Napoleon Hill"},
-{
-       "quote":"Strive not to be a success, but rather to be of value.","author":"Albert Einstein"},
-{
-       "quote":"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.","author":"Robert Frost"},
-{
-       "quote":"I attribute my success to this: I never gave or took any excuse.","author":"Florence Nightingale"},
-{
-       "quote":"You miss 100% of the shots you don’t take.","author":"Wayne Gretzky"}
+[
+  {
+    "num":"0",
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "author": "Albert Einstein"
+  },
+  {
+  "num":"1",
+  "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+  "author": "Oscar Wilde"
+  },
+  {
+  "num":"2",
+  "quote": "Life is what happens to us while we are making other plans.",
+  "author": "Allen Saunders"
+  },
+  {
+  "num":"3",
+  "quote": "That which does not kill us makes us stronger.",
+  "author": "Friedrich Nietzsche"
+  },
+  {
+  "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+  "author": "Mark Twain" 
+  },
+  {
+  "quote": "Life is not a matter of holding good cards, but sometimes, playing a poor hand well."
+  "author": "Kurt Vonnegut"
+  },
+  {
+  "quote": "Enjoy the little things in life, because one day you will look back and realize they were the big things.",
+  "author": "Robert Frost"
+  },
+  {
+  "quote": "Women are meant to be loved, not to be understood.",
+  "author": "Nikolai Gogol"
+  },
+  {
+  "quote": "There are certain words which are nearer and dearer to a man than any others.",
+  "author": "William Golding"
+  },
 ]
-}
